@@ -1,1 +1,58 @@
 theme: jekyll-theme-hacker
+
+# ==============================================================================
+# 1. SITE METADATA (SEO aur Browser Tab ke liye sabse zaroori)
+# ==============================================================================
+title: Rahul Shah | Full-Stack Developer
+author: Rahul Shah
+email: rahulshahx@proton.me
+description: >-
+  Digital portfolio of Rahul Shah, a 6th-semester B.Tech CSE/IT student, 
+  Full-Stack Web Developer, and AI & Robotics enthusiast. Building wing2rah 
+  and exploring modern tech stacks like React, Node.js, and Python.
+
+# ==============================================================================
+# 2. URL SETTINGS (Links ko sahi se kaam karne ke liye)
+# ==============================================================================
+# Agar aap custom domain use nahi kar rahe, toh apni github.io link daalein
+url: "https://rahulshah.github.io" 
+baseurl: ""
+
+# ==============================================================================
+# 3. THEME SETTING
+# ============================================================================
+# Note: Agar koi aur theme use karni hai, toh upar wali line hata kar niche wali use karein:
+# remote_theme: pages-themes/cayman 
+
+# ==============================================================================
+# 4. SOCIAL PROFILES (Website ke footer/header me links add karne ke liye)
+# ==============================================================================
+github_username: rahulshahx
+linkedin_username: rahulshah  # Yahan apna actual ID likhein
+twitter_username: wing2rah    # Yahan apna actual ID likhein
+
+# ==============================================================================
+# 5. PLUGINS (Extra features jaise SEO aur Sitemap ke liye)
+# ==============================================================================
+plugins:
+  - jekyll-seo-tag    # Google search me site ko upar lane me madad karta hai
+  - jekyll-sitemap    # Search engines ke liye sitemap.xml banata hai
+  - jekyll-feed       # Blog/posts ke liye RSS feed banata hai
+
+# ==============================================================================
+# 6. BUILD SETTINGS & EXCLUSIONS
+# ==============================================================================
+# In files ko website build karte time ignore kiya jayega (Faster loading)
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Markdown styling settings
+markdown: kramdown
+highlighter: rouge
+
