@@ -70,16 +70,6 @@ I believe in using the right tool for the right job. Here is a comprehensive loo
 <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
 </p>
 
-## 🚀 Featured Projects
-Here are some of the key projects I've poured my time and code into. Click the repo links to see the source code!
-
-| Project Name | Description | Tech Stack | Status |
-| :--- | :--- | :--- | :--- |
-| **wing2rah** | A comprehensive, full-stack note-taking web app with secure user authentication, rich text editing, and real-time database syncing. | React, Tailwind, Node.js, Firebase/Supabase | 🟢 Active |
-| **AI Chat Assistant** | A conversational AI interface built with Python and modern web frameworks, leveraging LLM APIs for smart responses. | Python, JavaScript, API | 🟡 Refining |
-| **Portfolio Website** | My personal digital portfolio (the one you might be looking at!). Fully responsive with dark/light mode functionality. | React, Vite, Tailwind | 🟢 Live |
-| **Algorithm Visualizer** | A C/C++ and JS-based tool that visually demonstrates how sorting and pathfinding algorithms work in real-time. | C, JavaScript, HTML/CSS | 🔴 Paused |
-
 ## 🏆 GitHub Trophies
 <div align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
