@@ -15,8 +15,7 @@ description: >-
 # 2. URL SETTINGS (Links ko sahi se kaam karne ke liye)
 # ==============================================================================
 # Agar aap custom domain use nahi kar rahe, toh apni github.io link daalein
-url: "https://rahulshah.github.io" 
-baseurl: ""
+
 
 # ==============================================================================
 # 3. THEME SETTING
@@ -28,7 +27,7 @@ baseurl: ""
 # 4. SOCIAL PROFILES (Website ke footer/header me links add karne ke liye)
 # ==============================================================================
 github_username: rahulshahx
-linkedin_username: rahulshah  # Yahan apna actual ID likhein
+linkedin_username: wing2rah  # Yahan apna actual ID likhein
 twitter_username: wing2rah    # Yahan apna actual ID likhein
 
 # ==============================================================================
